@@ -6,7 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "unsafe",
+    "mutation",
+    "mutations",
+    "mutating",
+    "declarative",
+    "performance"
+  ],
   "author": "Brandon Chartier",
   "license": "ISC"
 }
