@@ -1,5 +1,3 @@
-// Mutating functions. --
-// Use inside reducers where the initail value is empty.
 function append (acc, val) {
   acc.push(val)
   return acc

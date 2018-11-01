@@ -1,6 +1,6 @@
 {
   "name": "unsafe",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Unsafe mutations for fun and profit",
   "main": "index.js",
   "scripts": {
