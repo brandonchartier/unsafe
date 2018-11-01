@@ -15,5 +15,12 @@
     "performance"
   ],
   "author": "Brandon Chartier",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonchartier/unsafe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/brandonchartier/unsafe/issues"
+  },
 }
